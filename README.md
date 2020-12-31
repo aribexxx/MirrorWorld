@@ -7,8 +7,8 @@ This is a repo of the source codes.
 
 
 <img src="https://github.com/aribexxx/MirrorWorld/blob/main/docs/img/WechatIMG118.jpeg">
-![Light mode 1](https://imgur.com/OV1dqIi)
-![Light mode 1](https://imgur.com/EJ4oogB)
+[Light mode 1](https://imgur.com/OV1dqIi)
+[Light mode 1](https://imgur.com/EJ4oogB)
 
 ![Schematics for the LED Cube](https://i.imgur.com/FJwaaGr.png)
 
